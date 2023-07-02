@@ -1,0 +1,24 @@
+body {
+	background-image: url('gifbg2.gif');
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+	text-align: center;
+}
+a:link {
+  color: DarkOrange;
+}
+a:visited {
+  color: DarkOrange;
+}
+a:hover {
+  color: DodgerBlue;
+}
+a:active {
+  color: DodgerBlue;
+}
+.mainlogo {
+	width: 650px;
+	text-align: center;
+}
